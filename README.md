@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KiwiDevelopment
-- 👀 I’m interested in Java and Batch.
-- 🌱 I’m currently learning Python.
+- 👀 I’m interested in Java, Python, Bash and Batch.
+- 🌱 I’m currently learning C#.
 - 📫 You can reach me on my mail: kiwidevelopmentinc@gmail.com or on my Discord: s1r_k1w1
 
 <!---
